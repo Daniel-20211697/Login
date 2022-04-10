@@ -253,9 +253,9 @@ public class FrmLogin extends javax.swing.JFrame {
             Datos[0] = Resultado.getString(1);
             Datos[1] = Resultado.getString(2);
             Datos[2] = Resultado.getString(3);
-            Datos[3] = Resultado.getString(4);
+            Datos[3] = Resultado.getString(6);
             Datos[4] = Resultado.getString(5);
-            Datos[5] = Resultado.getString(6);
+            Datos[5] = Resultado.getString(4);
             Model.addRow(Datos);
         }
                 
