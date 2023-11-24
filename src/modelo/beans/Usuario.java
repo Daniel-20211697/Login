@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package modelo.beans;
 
 public class Usuario {
@@ -81,9 +77,6 @@ public class Usuario {
     public void setCorreo(String correo) {
         this.correo = correo;
     }
-    
-    
-    
-           
+       
     
 }
